@@ -4,7 +4,7 @@ This a PyTorch and Tensorflow repository for 2D detection and tracking.
 ## Environment
 Install the respective environments for detection and tracking.
 ## Data Preparation
-Extract images from videos and put them under ``images/`` and make sure to have the following structure:
+Extract images from videos and put them under ``images/``, and provide the list of videos in `list.txt`. Make sure to have the following directory structure:
 
 ```
 images
