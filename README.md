@@ -1,5 +1,4 @@
 # 2D_Det_Track
-## Introduction
 This a PyTorch and Tensorflow repository for 2D detection and tracking.
 ## Environment
 Install the respective environments for detection and tracking.
