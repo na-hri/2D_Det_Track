@@ -14,6 +14,7 @@ images
 |--201807161357_12215_12401
    |--*.jpg
 ```   
+Some sample data has been provided.
 ## Usage
 ### Run 2D detection
 ```
