@@ -30,5 +30,5 @@ python refine_tracking.py
 ```
 ## Output
 The results for detection, tracking and refined tracking will be written under ``detections/``, ``tracking`` and ``tracking_refined`` respectively.
-##Acknowledgment
+## Acknowledgment
 The building blocks of the code are heavily borrowed from [Detectron (Pytorch version)](https://github.com/roytseng-tw/Detectron.pytorch) and [DeepSORT](https://github.com/nwojke/deep_sort)
