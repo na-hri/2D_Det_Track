@@ -27,4 +27,5 @@ python run_tracking.py
 ```
 python refine_tracking.py
 ```
+## Output
 The results for detection, tracking and refined tracking will be written under ``detections/``, ``tracking`` and ``tracking_refined`` respectively.
